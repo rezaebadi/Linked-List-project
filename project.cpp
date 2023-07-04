@@ -1,5 +1,3 @@
-//reza ebadi ozan 
-//4002023025
 
 #include <iostream>
 #include <fstream>
